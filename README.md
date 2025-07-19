@@ -1,3 +1,3 @@
 # git1
-This is my first Github Depository.
+This is my first Github Repository.
 Author- Dipanjan Sadhukhan
